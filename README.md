@@ -65,10 +65,8 @@
 
 - Add the following lines of code to the file:
 
-<pre>
-Order deny,allow
-Deny from all
-<pre>
+- Order deny,allow
+- Deny from all
 
 - Save and close the .htaccess file.
 
