@@ -21,6 +21,7 @@
 - `mail.localhost.com/roundcube/temp`
 - `localhost.com/roundcube/temp`
 
+<pre><code>
 - Roundcube Webmail is a popular open-source webmail application used by many individuals and organizations around the world. It provides a range of features, including email composition and reading, address book management, and message filtering. However, like any software, Roundcube Webmail can be vulnerable to security threats if not properly configured.
 
 - One of the security threats that can impact Roundcube Webmail is the theft of files from the /temp directory. The /temp directory is a temporary directory that Roundcube Webmail uses to store files that are uploaded or generated during user sessions. By default, this directory is not secured and can be accessed by anyone who has access to the web server hosting the application.
@@ -34,3 +35,4 @@
 - It is important to note that securing the /temp directory is just one aspect of securing Roundcube Webmail. There are other security threats that the application may be vulnerable to, and it is important to implement a comprehensive security plan to protect against them.
 
 - In conclusion, the /temp directory in Roundcube Webmail can be vulnerable to security threats if not properly secured. Attackers can easily access and steal files from the directory, which can lead to serious security breaches and data loss. Therefore, it is important to properly secure the directory by setting appropriate permissions or using a different directory altogether. Additionally, implementing a comprehensive security plan is necessary to protect against other potential security threats.
+<pre><code>
