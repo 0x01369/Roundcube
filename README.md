@@ -3,23 +3,23 @@
 ## ***Note***
 - The Reason How I Wrote This Article I've Seen It On A Few Government Sites
 
-+ Example Directories
-+ /roundcube/temp
-+ /webmail/temp
-+ /mail/temp
-+ /temp
+## ***Example Directories***
+- /roundcube/temp
+- /webmail/temp
+- /mail/temp
+- /temp
 
-+ Example URL
-+ webmail.localhost.com/temp
-+ mail.localhost.com/temp
-+ webmail.localhost.com/webmail/temp
-+ webmail.localhost.com/mail/temp
-+ mail.localhost.com/webmail/temp
-+ localhost.com/webmail/temp
-+ localhost.com/mail/temp
-+ webmail.localhost.com/roundcube/temp
-+ mail.localhost.com/roundcube/temp
-+ localhost.com/roundcube/temp
+## ***Example URL***
+- webmail.localhost.com/temp
+- mail.localhost.com/temp
+- webmail.localhost.com/webmail/temp
+- webmail.localhost.com/mail/temp
+- mail.localhost.com/webmail/temp
+- localhost.com/webmail/temp
+- localhost.com/mail/temp
+- webmail.localhost.com/roundcube/temp
+- mail.localhost.com/roundcube/temp
+- localhost.com/roundcube/temp
 
 Roundcube Webmail is a popular open-source webmail application used by many individuals and organizations around the world. It provides a range of features, including email composition and reading, address book management, and message filtering. However, like any software, Roundcube Webmail can be vulnerable to security threats if not properly configured.
 
