@@ -21,6 +21,9 @@
 - `mail.localhost.com/roundcube/temp`
 - `localhost.com/roundcube/temp`
 
+## ***Title***
+"Preventing Document Leaks in Roundcube Webmail: Addressing the Vulnerability in the /temp Directory".
+
 ## ***Brief Summary***
 - The article discusses a vulnerability in the popular Roundcube webmail platform related to the /temp directory. The /temp directory is used to store temporary files, including email attachments that may contain sensitive information. The vulnerability is related to the fact that the /temp directory is not protected by the 403 Forbidden error response, which means anyone with access to the server could potentially gain access to the attachments stored in the directory, resulting in a data breach. The article explains the possible consequences of a document leak, which include identity theft, financial loss, and legal liabilities for individuals and organizations. The article provides a simple fix to address the
 
