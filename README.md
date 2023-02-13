@@ -68,7 +68,7 @@
 <pre><code>
 Order deny,allow
 Deny from all
-<pre><code>
+-
 
 - Save and close the .htaccess file.
 
