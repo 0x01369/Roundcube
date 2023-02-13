@@ -4,13 +4,13 @@
 - The Reason How I Wrote This Article I've Seen It On A Few Government Sites
 
 ## ***Example Directories***
-`roundcube/temp`
-`/webmail/temp`
-`/mail/temp`
-`/temp`
+- `roundcube/temp`
+- `/webmail/temp`
+- `/mail/temp`
+- `/temp`
 
 ## ***Example URL***
-- webmail.localhost.com/temp
+`webmail.localhost.com/temp`
 - mail.localhost.com/temp
 - webmail.localhost.com/webmail/temp
 - webmail.localhost.com/mail/temp
